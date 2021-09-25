@@ -73,8 +73,6 @@ int main(void) {
     printf("\n ================================");
 	OrdenNumeros(array, TAM);
 
-	return EXIT_SUCCESS;
-
 }
 
 
